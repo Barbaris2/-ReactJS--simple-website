@@ -1,30 +1,25 @@
 ![](https://github.com/Barbaris2/-ReactJS--simple-website/blob/master/img/1.png)
 
-# -MERN-devConnector
+# -ReactJS--simple-website
 
-Это MERN-приложение из курса "MERN Stack Front To Back". Простая социальная сеть с авторизацией, созданием и удалением постов, комментариями, с созданием аккаунта с информацией о навыках, опыте работы и образовании.Отображение аватара пользователя при помощи Gravatar .
-Backend - mongoDB, NodeJS, Express. Frontend - ReactJS.
-Приложение развернуто на **Heroku** ссылка [тут](http://gentle-taiga-07905.herokuapp.com/)
+Простой сайт построенный на ReactJS и Bootstrap.
 
-### Описание курса
+### Описание
 
-- Создано fullstack приложение социальная сеть с помощью React, Redux, Node, Express и MongoDB.
-- Аутентификация пользователя методом JSON Web Token(JWT) без сохранения состояния.
-- Frontend написан с современными практиками React Hooks, Async/Await.
-- Для управления состоянием использован Redux.
-- Создан обширный backend API c Express.
+- Cоздан многостраниный сайт с роутингом, каруселью, формой, и виджетами.
+- Практика работы с React и Bootstrap.
 
 ### Быстрый старт
 
-- клонируйте репозиторий: `git clone https://github.com/Barbaris2/-MERN-devConnector.git`
+- клонируйте репозиторий: `git clone https://github.com/Barbaris2/-ReactJS--simple-website.git`
 - установите зависимости: `yarn install` или `npm install`
-- запустите проект: `yarn run dev` or `npm run dev`
-- откройте [http://localhost:5000](http://localhost:5000) в Вашем браузере.
+- запустите проект: `yarn start` or `npm start`
+- откройте [http://localhost:3000](http://localhost:3000) в Вашем браузере.
 
 ## Описание веток
 
-- `git checkout master`- клиент и сервер
+- `git checkout master`- веб-сайт.
 
-### Ветки Подкаста:
+### Ветки репозитория:
 
 - `git checkout master`
